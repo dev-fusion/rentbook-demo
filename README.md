@@ -1,4 +1,4 @@
-#Požičovňa kníh
+# Požičovňa kníh
 
 Vašou úlohou je vytvoriť webovú aplikáciu, ktorá umožní majiteľovi požičovne viesť databázu kníh a ich autorov. Aplikácia používateľovi umožní základné akcie pre knihy aj autorov:
 * Zobraziť zoznam kníh/autorov
